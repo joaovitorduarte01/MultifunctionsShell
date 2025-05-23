@@ -8,14 +8,23 @@ Um script PowerShell interativo, com múltiplas funcionalidades para administra�
 - Monitoramento de processos
 - Backup automático
 - Acesso ao Active Directory
-- Gerenciamento de impressoras
-- Muito mais em um único script!
+- Gerenciamento de impressoras 
+- Informações do Sistema
+- Gerenciamento de Usuários
+- Tarefas Agendadas
+- Atualizações do Sistema
+- Auditoria e Logs
+- Ferramentas de Backup
+- Otimização do Sistema
+- Gerenciamento de Impressoras
+- Controle de Aplicativos
+- Gerenciamento de Serviços de Diretório
+- Virtualização
 
 ## Pré-requisitos
 
-- Windows 10 ou superior
-- PowerShell 5.0+
+- Distribuição GNU/LINUX
 - Execução de scripts habilitada:
   
-```powershell
+```bash
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
